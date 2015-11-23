@@ -1,12 +1,12 @@
 asns
 ====
-Another Simple Notification Server - Or more bluntly a very poor man's Pusher. Ideal for a beginings of a pusher service behind the iron curtain such as in a bank.
+Yet Another Simple Notification Server - Or more bluntly a very poor man's Pusher. Ideal for a beginings of a pusher service behind the iron curtain such as in a bank.
 
 ### Service Side
 
 Install node.js clone the project and run the script.
 
-    git clone https://github.com/thanos/asns.git
+    git clone https://github.com/thanos/yasns.git
     cd asns
     node server.js
 
