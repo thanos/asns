@@ -7,7 +7,8 @@ Yet Another Simple Notification Server - Or more bluntly a very poor man's Pushe
 Install node.js clone the project and run the script.
 
     git clone https://github.com/thanos/yasns.git
-    cd asns
+    cd yasns
+    npm install
     node server.js
 
 ### Reciever Side
