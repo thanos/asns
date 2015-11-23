@@ -28,8 +28,8 @@ Insert the following in your code:
 
 You can use REST:
 
-  curl -X POST http://127.0.0.1:3000/your_channel/ -d msg='some amazing message'
-  
+    curl -X POST http://127.0.0.1:3000/your_channel/ -d msg='some amazing message'
+      
 or you can use socket.io's api see: http://socket.io/
 
 
